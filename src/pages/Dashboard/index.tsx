@@ -1,5 +1,5 @@
 /* eslint-disable camelcase */
-import React, { useEffect, useState, FormEvent } from 'react'
+import React, { useState, FormEvent } from 'react'
 
 import { FiChevronRight } from 'react-icons/fi'
 import LogoImage from '../../assets/logo.svg'
