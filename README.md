@@ -4,6 +4,8 @@
   Github Explore
 </h3>
 
+<img src="https://i.postimg.cc/nh03Vp2n/screenshot-github-explore.png" alt="Github Explore"/>
+
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 
@@ -28,7 +30,7 @@ Entre na pasta `github-explore` e rode o comando `yarn` ou `npm install`, para i
 
 ```
 cd github-explore
-yarn start 
+yarn start
 ```
 
 Ou usando o `npm`
@@ -36,6 +38,9 @@ Ou usando o `npm`
 ```
 npm start
 ```
+## Veja a aplicação no ar :tada:
+
+:point_right: [Github Explore](https://youthful-bohr-f3c9b3.netlify.app/)
 
 E agora é só se divertir :smile:
 
