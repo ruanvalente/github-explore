@@ -35,7 +35,7 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     'react/jsx-filename-extension': [1, { 'extensions': ['.tsx'] }],
     'import/prefer-default-export': 'off',
-    '@typescript-eslint/camelcase': 'off',
+    '@typescript-eslint/camelcase': {'properties': 'always'},
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     'prettier/prettier': 'error',
     'import/extensions': [
