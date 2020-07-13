@@ -41,7 +41,6 @@ export const Form = styled.form<FormProps>`
   button {
     max-width: 200px;
     width: 100vh;
-    padding: 19px 64px;
     background: #04d361;
     border: none;
     border-radius: 0px 5px 5px 0px;

@@ -46,6 +46,12 @@ export const RepositoryInfo = styled.section`
         color: #3D3D4D;
       }
 
+      @media(max-width: 550px) {
+        strong {
+          font-size: 24px;
+        }
+      }
+
       p {
         font-size: 18px;
         line-height: 23px;

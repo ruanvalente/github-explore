@@ -89,7 +89,6 @@ const Repository: React.FC = () => {
           <a
           key={issue.id}
            href={issue.html_url}
-           target="_blank"
          >
           <div>
               <strong>{issue.title}</strong>
