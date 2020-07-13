@@ -40,7 +40,7 @@ npm start
 ```
 ## Veja a aplicação no ar :tada:
 
-:point_right: [Github Explore](https://youthful-bohr-f3c9b3.netlify.app/)
+:point_right: [Github Explore](https://github-explore.vercel.app/)
 
 E agora é só se divertir :smile:
 
